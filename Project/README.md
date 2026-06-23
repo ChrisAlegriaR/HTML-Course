@@ -33,4 +33,3 @@ El proyecto sigue la estructura y los principios del curso de **SergieCode**, pe
 ---
 
 💻 *Este proyecto fue realizado con fines educativos, basado en el curso de **SergieCode**, para aprender y practicar HTML, con el tema de Coldplay como adaptación personal.*  
-
